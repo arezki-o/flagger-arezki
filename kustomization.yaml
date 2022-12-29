@@ -1,4 +1,4 @@
-namespace: flagger-ns-arezki
+namespace: flagger
 resources:
   - service.yaml
   - deployment.yaml
